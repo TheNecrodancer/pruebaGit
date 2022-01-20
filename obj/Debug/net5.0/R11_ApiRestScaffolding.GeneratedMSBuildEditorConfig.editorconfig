@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = R11_ApiRestScaffolding
+build_property.ProjectDir = C:\Users\greni\Escritorio\TODO\INSTITUTO\2_DAM\DESARROLLO DE INTERFACES\PRUEBAS\TEMA4-BBDD\R11_ApiRestScaffolding\

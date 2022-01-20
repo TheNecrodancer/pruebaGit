@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R11_ApiRestScaffolding", "R11_ApiRestScaffolding.csproj", "{3C75B6B1-7323-4DD8-997A-1A826D77705D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C75B6B1-7323-4DD8-997A-1A826D77705D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C75B6B1-7323-4DD8-997A-1A826D77705D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C75B6B1-7323-4DD8-997A-1A826D77705D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C75B6B1-7323-4DD8-997A-1A826D77705D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DE4C184-3E30-4AE8-AFAF-13D27036B961}
+	EndGlobalSection
+EndGlobal
